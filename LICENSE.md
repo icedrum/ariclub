@@ -1,4 +1,4 @@
-Copyright (c) 2021 David Gandul Castells
+Copyright (c)2021 David Gandul Castells
 
 *** Spanish ****
 Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga
